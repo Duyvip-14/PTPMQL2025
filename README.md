@@ -1,1 +1,1 @@
-"# PTPMQL2025 - Th?c h�nh GitHub bu?i 1" 
+# PTPMQL2025 –  Bài Thực hành GitHub buổi 1
