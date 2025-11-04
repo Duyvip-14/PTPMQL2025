@@ -1,5 +1,0 @@
-D:\Project\obj\Debug\net9.0\PTPMQL2025.GeneratedMSBuildEditorConfig.editorconfig
-D:\Project\obj\Debug\net9.0\PTPMQL2025.AssemblyInfoInputs.cache
-D:\Project\obj\Debug\net9.0\PTPMQL2025.AssemblyInfo.cs
-D:\Project\obj\Debug\net9.0\PTPMQL2025.csproj.CoreCompileInputs.cache
-D:\Project\obj\Debug\net9.0\PTPMQL2025.sourcelink.json

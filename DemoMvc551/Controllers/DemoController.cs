@@ -4,16 +4,10 @@ namespace DemoMvc551.Controllers
 {
     public class DemoController : Controller
     {
-        // GET: /HelloWorld/
-        public string Index()
+        // GET: /DemoController/
+        public IActionResult Index()
         {
-            return "This is my default action...";
+            return View();
         }
-        // GET: /HelloWorld/Welcome/ 
-
-        public string Welcome()
-        {
-            return "This is the Welcome action method...";
-        }
-    }
-    }
+      }
+}
