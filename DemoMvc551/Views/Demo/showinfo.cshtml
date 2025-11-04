@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Gửi nhận dữ liệu giữa Controller và View";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p><strong>Tên:</strong> @ViewBag.Name</p>
+<p><strong>Khóa học:</strong> @ViewData["Course"]</p>
+<p><strong>Thông báo:</strong> @TempData["Message"]</p>
+
+<a asp-action="Index" asp-controller="Demo">Quay lại trang Index</a>
