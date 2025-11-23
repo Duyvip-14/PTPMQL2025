@@ -1,0 +1,20 @@
+@model DemoMvc551.Models.Student
+
+@{
+    ViewData["Title"] = "Kết Quả Nhập Sinh Viên";
+
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="result-details" style="border: 1px solid #ccc; padding: 15px; max-width: 400px;">
+    
+    <p><b>Họ tên:</b> @Model.UserName</p>
+    
+    <p><b>Mã sinh viên:</b> @Model.StudentId</p>
+    
+    <p><b>Năm sinh:</b> @Model.BirthYear</p>
+
+</div>
+
+<a class="btn btn-secondary mt-3" asp-controller="Student" asp-action="Form">Nhập lại / Quay về Form</a>
