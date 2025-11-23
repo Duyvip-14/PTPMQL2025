@@ -1,0 +1,9 @@
+@model DemoMvc551.Models.Student
+
+<h2>Thông tin sinh viên</h2>
+
+<p><strong>Họ tên:</strong> @Model.Name</p>
+<p><strong>Tuổi:</strong> @Model.Age</p>
+<p><strong>Chuyên ngành:</strong> @Model.Major</p>
+
+<a asp-action="InputStudent" asp-controller="Demo">Nhập lại</a>

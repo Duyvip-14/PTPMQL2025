@@ -1,0 +1,16 @@
+@model DemoMvc551.Models.Student
+
+<h2>Nhập thông tin sinh viên</h2>
+
+<form asp-action="InputStudent" method="post">
+    <label>Họ tên:</label>
+    <input type="text" asp-for="Name" class="form-control" /><br />
+
+    <label>Tuổi:</label>
+    <input type="number" asp-for="Age" class="form-control" /><br />
+
+    <label>Chuyên ngành:</label>
+    <input type="text" asp-for="Major" class="form-control" /><br />
+
+    <button type="submit" class="btn btn-primary">Gửi</button>
+</form>
