@@ -2,9 +2,8 @@ using Microsoft.AspNetCore.Builder; // Đã kiểm tra và đảm bảo có đ�
 using Microsoft.EntityFrameworkCore; 
 // Hoặc Microsoft.EntityFrameworkCore.Sqlite; (Tùy phiên bản)
 using DemoMvc551.Data;
-internal class Program
-{
-    private static void Main(string[] args)
+
+   
     {
         var builder = WebApplication.CreateBuilder(args);
         builder.Services.AddDbContext<ApplicationDbContext>
@@ -42,4 +41,3 @@ internal class Program
 
         app.Run();
     }
-}
