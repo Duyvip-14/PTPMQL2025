@@ -9,6 +9,9 @@ namespace DemoMvc551.Data
         }
                public DbSet<Person> Persons { get; set; }
                public DbSet<Student> Student {get; set; }
+               public DbSet<Employee> Employee {get; set; 
+              
      
+}
 }
 }
