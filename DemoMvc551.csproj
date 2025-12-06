@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <!-- Gói EF Core chung -->
+    <PackageReference Include="EPPlus" Version="8.3.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
     
     <!-- Thay thế gói SQL Server bằng gói SQLite -->

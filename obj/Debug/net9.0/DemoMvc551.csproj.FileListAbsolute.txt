@@ -329,3 +329,17 @@ D:\Project\DemoMvc551\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
 D:\Project\DemoMvc551\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Project\DemoMvc551\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Project\DemoMvc551\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\EPPlus.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\EPPlus.Interfaces.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+D:\Project\DemoMvc551\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
